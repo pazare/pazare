@@ -1,0 +1,32 @@
+# Pablo M. Zavala
+
+I work on honest measurement of frontier agents — what they do under pressure, and who their gains reach.
+
+Two research programs, both public. Every number below traces to a public repo.
+
+## Agent governance: what agents do under pressure
+
+**[hierarchical-agent-governance-evals](https://github.com/pazare/hierarchical-agent-governance-evals)**
+
+Agents now hold operational authority: they merge code, allocate budgets, direct other agents. This program tests whether an agent overreaches that authority or declines authority it legitimately holds. Six action-level probe families put agents in those situations; blind AI audit panels grade the outcomes.
+
+The methodological finding mattered as much as the behavioral one. Automated graders false-flagged compliant behavior — about a dozen instances were caught and corrected by hand before any result was reported. The effect that survived scrutiny: Fisher one-sided p = 0.0098 — a behavioral divergence, not a constitutional failure.
+
+## Economic measurement: who the gains reach
+
+The same standard applied to AI in economic decisions: pre-register, report nulls as nulls, state the tradeoffs.
+
+- **[safe-market-universes](https://github.com/pazare/safe-market-universes)** — a pre-registered null result. Can a model's own confidence ration scarce human review? No better than chance: regret 0.176 vs 0.191 for random allocation. A hand-coded evidence rule reached 0.091.
+- **[Macroeconomic-Simulation-Netlogo](https://github.com/pazare/Macroeconomic-Simulation-Netlogo)** — an agent-based model of labor-market adjustment to AI automation. Changing the policy regime alone moves peak unemployment from 14.3% to 3.6%, with workers and random seed held fixed.
+- **[RAG_Eval](https://github.com/pazare/RAG_Eval)** — an evaluation harness where reranking lifts context precision from 69.0% to 86.6%, while exact match drops. A system can look worse on string overlap and be better grounded. You have to measure both.
+- **[Strike-Team](https://github.com/pazare/Strike-Team)** — Pittsburgh's AI investment ecosystem mapped at the Block Center, CMU: 133 active AI firms, USD 6.3B cumulative funding (July 2025 snapshot), with the full report committed.
+
+## Background
+
+MS, Public Policy & Management (Data Analytics), Carnegie Mellon University, May 2026 — Highest Distinction. Accelerated MA with Honors, University of Chicago. BA, summa cum laude, Soka University — 4.0 GPA in every economics course.
+
+Founder, NUDG — an AI Resource OS for proof receipts and human-gated execution: [nudgai.com](https://nudgai.com)
+
+Open to full-time roles in AI evaluation and research, data science, and AI policy.
+
+Portfolio: [pazare.github.io/zavala-systems-lab](https://pazare.github.io/zavala-systems-lab/) · [linkedin.com/in/pablo-zavala](https://www.linkedin.com/in/pablo-zavala)
