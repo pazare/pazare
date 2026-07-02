@@ -10,7 +10,7 @@ Two research programs, both public. Every research number below traces to a publ
 
 Agents now hold operational authority: they merge code, allocate budgets, direct other agents. This program tests whether an agent overreaches that authority or declines authority it legitimately holds. Six action-level probe families put agents in those situations; blind AI audit panels grade the outcomes.
 
-The methodological finding mattered as much as the behavioral one. Automated graders false-flagged compliant behavior — about a dozen instances were caught and corrected by hand before any result was reported. The effect that survived scrutiny: Fisher one-sided p = 0.0098 — a behavioral divergence rather than a constitutional failure.
+The methodological finding mattered as much as the behavioral one. Automated graders false-flagged compliant behavior — I caught and corrected about a dozen instances by hand before reporting any result. The effect that survived scrutiny: Fisher one-sided p = 0.0098 — a behavioral divergence rather than a constitutional failure.
 
 ## Economic measurement: who the gains reach
 
@@ -23,7 +23,7 @@ The same standard applied to AI in economic decisions: pre-register, report null
 
 ## Background
 
-MS, Public Policy & Management (Data Analytics), Carnegie Mellon University, May 2026 — Highest Distinction. Accelerated MA with Honors, University of Chicago. BA, summa cum laude, Soka University — 4.0 GPA in every economics course.
+MS, Public Policy & Management (Data Analytics), Carnegie Mellon University, May 2026 — Highest Distinction. MA with Honors, University of Chicago. BA, summa cum laude, Soka University — 4.0 GPA in every economics course.
 
 Founder, NUDG — an AI Resource OS venture in formation, built for proof receipts and human-gated execution: [nudgai.com](https://nudgai.com)
 
