@@ -2,7 +2,7 @@
 
 I work on honest measurement of frontier agents — what they do under pressure, and who their gains reach.
 
-Two research programs, both public. Every number below traces to a public repo.
+Two research programs, both public. Every research number below traces to a public repo.
 
 ## Agent governance: what agents do under pressure
 
@@ -25,7 +25,7 @@ The same standard applied to AI in economic decisions: pre-register, report null
 
 MS, Public Policy & Management (Data Analytics), Carnegie Mellon University, May 2026 — Highest Distinction. Accelerated MA with Honors, University of Chicago. BA, summa cum laude, Soka University — 4.0 GPA in every economics course.
 
-Founder, NUDG — an AI Resource OS for proof receipts and human-gated execution: [nudgai.com](https://nudgai.com)
+Founder, NUDG — an AI Resource OS venture in formation, built for proof receipts and human-gated execution: [nudgai.com](https://nudgai.com)
 
 Open to full-time roles in AI evaluation and research, data science, and AI policy.
 
