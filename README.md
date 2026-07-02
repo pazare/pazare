@@ -29,4 +29,4 @@ Founder, NUDG — an AI Resource OS venture in formation, built for proof receip
 
 Open to full-time roles in AI evaluation and research, data science, and AI policy.
 
-Portfolio: [pazare.github.io/zavala-systems-lab](https://pazare.github.io/zavala-systems-lab/) · [linkedin.com/in/pablo-zavala](https://www.linkedin.com/in/pablo-zavala)
+Portfolio: [zavalab.com](https://zavalab.com/) · [linkedin.com/in/pablo-zavala](https://www.linkedin.com/in/pablo-zavala)
