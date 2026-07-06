@@ -1,8 +1,6 @@
-# Pablo M. Zavala
+# Pablo Zavala (www.zavalab.com)
 
-I work on honest measurement of frontier agents — what they do under pressure, and who their gains reach.
-
-Two research programs, both public. Every research number below traces to a public repo.
+Hi! I am passionate about the uses of technology for human capital development. My areas of professional and academic interests are agentic technologies, quantum computing, public policy, and AI governance. I have been working on agentic calibration for long-horizon investments. These are some of my public repositories: 
 
 ## Agent governance: conduct under pressure
 
